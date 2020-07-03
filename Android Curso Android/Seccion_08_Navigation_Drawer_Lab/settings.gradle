@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Seccion_08_Navigation_Drawer_Lab"
